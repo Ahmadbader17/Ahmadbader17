@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmadbader17
-- 👀 I’m interested in disruptive technologies
-- 🌱 I’m currently learning competitive coding 
-- 💞️ I’m looking to collaborate on startup ideas
+- 👀 I’m interested in anything technologies
+- 🌱 I’m currently working as an associate software developer 
+- 🖥 I'm open to interesting endeavours in tech field!
 - 📫 Reach me at khan17.ahmad@gmail.com
 
 <!---
