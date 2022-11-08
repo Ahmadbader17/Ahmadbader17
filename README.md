@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmadbader17
-- 👀 I’m interested in anything technologies
+- 👀 I’m interested in building valuable products
 - 🌱 I’m currently working as an associate software developer 
 - 🖥 I'm open to interesting endeavours in tech field!
 - 📫 Reach me at khan17.ahmad@gmail.com
