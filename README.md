@@ -8,6 +8,6 @@
 
 💡 Check out my repositories for some of my AI/ML and software projects!
 
-📫 Reach me at khan17.ahmad@gmail.com
+📫 Reach me at ahmad.bader17@proton.me
 
 <!--- Ahmadbader17/Ahmadbader17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
