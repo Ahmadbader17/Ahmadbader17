@@ -2,7 +2,7 @@
 
 👀 I’m passionate about Artificial Intelligence, Machine Learning, and building impactful, data-driven products.
 
-🌱 I’m worked as an Associate Software Developer while actively learning and experimenting with ML models, algorithms, and tools.
+🌱 I’ve worked as an Associate Software Developer while actively learning and experimenting with ML models, algorithms, and tools.
 
 🖥 I love working on end-to-end ML projects and exploring innovative solutions in the tech space.
 
